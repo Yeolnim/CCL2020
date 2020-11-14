@@ -1,0 +1,915 @@
+ID,Dialogue_id,Utterance_id,Speaker,Sentence
+0,0,0,Ross,"Or! Or, we could go to the bank, close our accounts and cut them off at the source."
+1,0,1,Chandler,You're a genius!
+2,0,2,Joey,"Aww, man, now we won't be bank buddies!"
+3,0,3,Chandler,"Now, there's two reasons."
+4,0,4,Phoebe,Hey.
+5,0,5,All,Hey!
+6,0,6,Phoebe,"Ohh, you guys, remember that cute client I told you about? I bit him."
+7,0,7,Rachel,Where?!
+8,0,8,Phoebe,On the touchy.
+9,0,9,Ross,And
+10,0,10,Phoebe,"No, I know!"
+11,0,11,Phoebe,"I-I'm sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one."
+12,0,12,Monica,"Well, next time your massaging him, you should try and distract yourself."
+13,0,13,Joey,Yeah! Yeah! Yeah! Like-like when I'm doing something exciting and I don't wanna get
+14,0,14,Chandler,"Thank you, Joey."
+15,0,15,Joey,"No-no, thank you."
+16,1,0,Ross,Yes? Yes?! How can I help you?
+17,1,1,Guy,"Yeah, we werewe were just looking around."
+18,1,2,Ross,"Oh-oh, you're-you're fellow scholars."
+19,1,3,Ross,"What exactly were you looking for, hmm?"
+20,1,4,Ross,"Perhaps,  perhaps Dr. Chester Stock's musings on the Smiledon Californicus?"
+21,1,5,Guy,Uhh.
+22,1,6,Ross,"Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion's views on evolution?"
+23,1,7,Woman,"Uh, actually I find Marion's views far too progressionist."
+24,1,8,Ross,I find Marion's views far too progressionist.
+25,1,9,Woman,"I'm sorry, who are you?"
+26,1,10,Ross,"I'm a professor here uh, RossGeller."
+27,1,11,Woman,"Ross Geller, why do I know that name? It's uhWait!  Did you write this?"
+28,1,12,Ross,Yes! You're the person who checked out my book?!
+29,1,13,Woman,"Y'know, you look nothing like I would've thought. You'reyou're so young."
+30,1,14,Ross,"Well I uh, I skipped forth grade."
+31,2,0,Ross,You had no right to tell me you ever had feelings for me.
+32,2,1,Rachel,What?
+33,2,2,Ross,I was doing great with Julie before I found out about you.
+34,2,3,Rachel,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?"
+35,2,4,Ross,The point is I...
+36,2,5,Ross,"I don't need this right now, OK."
+37,2,6,Ross,"It, it's too late, I'm with somebody else, I'm happy."
+38,2,7,Ross,This ship has sailed.
+39,2,8,Rachel,"Alright, fine, you go ahead and you do that, alright Ross."
+40,2,9,Ross,Fine.
+41,2,10,Rachel,Cause I don't need your stupid ship.
+42,2,11,Ross,Good.
+43,2,12,Rachel,Good.
+44,3,0,Phoebe,"Oh, it's so romantic to send people off on their honeymoon."
+45,3,1,Joey,"Y'know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something."
+46,3,2,Phoebe,All in good time my love.
+47,3,3,Phoebe,All in good time.
+48,3,4,Phoebe,Oh shoot!
+49,3,5,Phoebe,I left my guitar in their apartment.
+50,3,6,Phoebe,Well you can let me in later.
+51,3,7,Joey,"I don't have a key, they took mine to give to you."
+52,3,8,Phoebe,What?! They took mine to give to you!
+53,3,9,Joey,Why would they take away our keys?
+54,4,0,Ross,Wow! It looks like we got a lot of good stuff.
+55,4,1,Rachel,"Oh we did, but my mom got us the greatest gift of all."
+56,4,2,Ross,A
+57,4,3,Rachel,No. She's going to live with us for eight weeks.
+58,4,4,Ross,"Uh, what?"
+59,4,5,Rachel,Yes! She's gonna help us take care of the baby! Woo-hoo.
+60,4,6,Ross,WhatYou're not serious.
+61,4,7,Ross,"I mean she's a very nice woman, but there is no way we can take eight weeks of her."
+62,4,8,Ross,She'll drive us totally crazy.
+63,4,9,Mrs. Green,Hi Ross!
+64,4,10,Ross,Hi roomie!
+65,5,0,Monica,Hey! What did you decide to do about the movie?
+66,5,1,Joey,I don't know!
+67,5,2,Joey,It's not like it's porn!
+68,5,3,Joey,"This is a serious, legitimate movie."
+69,5,4,Joey,And the nudity is really important to the story.
+70,5,5,Monica,That's what you say about porn.
+71,5,6,Joey,You're right. Maybe I shouldn't even go on the call back.
+72,5,7,Monica,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!"
+73,5,8,Joey,Well that's true.
+74,5,9,Joey,And I am only naked in one scene.
+75,5,10,Joey,Plus it sounds really great.
+76,5,11,Joey,My character's catholic and he falls in love with this Jewish girl.
+77,5,12,Joey,Who run away together and they get caught in this big rainstorm.
+78,5,13,Joey,So we go into this barn and undress each other and hold each other.
+79,5,14,Joey,It's really sweet and-and tender.
+80,6,0,Joey,"Hey, what's up?"
+81,6,1,Chandler,"Nothing, Monica and I had a stupid fight."
+82,6,2,Joey,"But you're still moving in together, right? Because my ad came out today."
+83,6,3,Chandler,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!"
+84,6,4,Joey,Yeah?
+85,6,5,Joey,"I just figured y'know, after living with you it'd be an interesting change of pace to have a female roommate, y'know?"
+86,6,6,Joey,"Someone I can learn from, someone-someone who's different than me."
+87,6,7,Joey,And what's more different than me. A guy who's
+88,7,0,Ross,So where are we going next?
+89,7,1,Gary,This witness won't return my calls so we're gonna see if we can surprise him coming home.
+90,7,2,Chandler,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?"
+91,7,3,Joey,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?"
+92,7,4,Gary,It's a witness not a perp. And no one talks like that!
+93,7,5,Ross,"Yeah, no one talks like that!"
+94,7,6,Joey,Oh what? Like your Mr. Cop!
+95,7,7,Ross,"Hey, I'm more cop than you two!"
+96,7,8,Chandler,How do you figure that?
+97,7,9,Ross,"Hello! I'm in the front seat, okay? I'm Gary's partner!"
+98,8,0,Phoebe,I guess so.
+99,8,1,Rachel,Here you go. Thank you!
+100,8,2,Phoebe,"Wait, Rach! Where's the other one?"
+101,8,3,Rachel,"Oh what, you-you want both of them?"
+102,8,4,Phoebe,"Rachel Karen Green, where's the other earring?!"
+103,8,5,Rachel,"Okay, okay, okay, look, just don't freak out, but I kinda lost it."
+104,8,6,Rachel,"I know it's in the apartment, but I"
+105,8,7,Phoebe,"Well, what am I going to tell Monica? She wants to wear them tonight!"
+106,8,8,Rachel,Tell her to wear her own earrings.
+107,8,9,Phoebe,These
+108,8,10,Rachel,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!
+109,8,11,Phoebe,Why not?
+110,8,12,Rachel,Because I lose her stuff!
+111,9,0,Dr. Harad,Okay. You ready to push again?
+112,9,1,Phoebe,I already had a baby. Leave me alone.
+113,9,2,Frank,"Okay, okay, come on, you can do it. You can do it!"
+114,9,3,Frank,Yeah!!
+115,9,4,Frank,Little Leslie is here!
+116,9,5,Frank,We got another one!
+117,9,6,Frank,"Oh my God, I can't believe I have two-two children."
+118,9,7,Frank,How scary is that?
+119,9,8,Frank,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!"
+120,9,9,Dr. Harad,"All right, he's coming. He's coming!"
+121,9,10,Frank,"Hey, where's his thing?"
+122,9,11,Frank,Chandler's a girl!
+123,9,12,Chandler,"Oh God, kindergarten flashback."
+124,9,13,Frank,They musta read the sonogram wrong.
+125,9,14,Frank,"Cause they, 'cause they thought it was a boy, but Chandler's a girl!"
+126,9,15,Frank,Chandler's a girl!
+127,9,16,Chandler,"Okay, keep saying it!"
+128,9,17,Alice,Am I too late?!
+129,9,18,Frank,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes."
+130,9,19,Alice,We have our babies?
+131,9,20,Frank,Yeah.
+132,9,21,Alice,"Oh, we have our babies."
+133,10,0,Bob,Hey Toby!
+134,10,1,Chandler,Hey Bobby.
+135,10,2,Bob,"It's Bob actually. Hey, you work up here, can you tell me where this Chandler"
+136,10,3,Chandler,"Uhh yeah. Yeah, it's  right, right down there.  Right there, yeah. Can I ask you why?"
+137,10,4,Bob,"I want to talk to that bastard, see what his problem is."
+138,10,5,Chandler,"Okay Bob listen uhh, I'm the reason you didn't get the job up here."
+139,10,6,Bob,Toby don't.
+140,10,7,Chandler,Bob!
+141,10,8,Bob,Toby! I'm not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!
+142,11,0,Rachel,Thank you.  Oh Joey and look at this crib! It's so cute!
+143,11,1,Joey,I know! I found it on the street.
+144,11,2,Rachel,Are you seriousReally?! It's in such good condition.
+145,11,3,Joey,Yeah.
+146,11,4,Rachel,Wow! Whoa-whoa what's under the covers?
+147,11,5,Joey,I don't know.
+148,11,6,Rachel,It's moving.
+149,11,7,Joey,Ew.
+150,11,8,Rachel,It's stillIt's got a tail! Get it out of here! Get it out of here!!
+151,11,9,Joey,Ooh! Ah! Okay!
+152,12,0,Whitney,"Well, I went over to Kyle's last night to pick up a few things and we got to reminiscing"
+153,12,1,Kyle,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So
+154,12,2,Ross,Oh just say it Kyle!
+155,12,3,Kyle,We're gonna give it another try.
+156,12,4,Phoebe,What about her whining and her constant need for attention?!
+157,12,5,Whitney,I'm gonna work on that.
+158,12,6,Phoebe,"Oh right, because you're so capable of change."
+159,12,7,Ross,"Y'know, he hums when he pees!"
+160,12,8,Whitney,I do know.
+161,12,9,Ross,"It makes him miss the bowl, but whatever."
+162,12,10,Whitney,We're so sorry.
+163,12,11,Ross,"That's all right, we-we don't need you. In fact, hey I'm over it already."
+164,12,12,Phoebe,"Yeah, and y'know what? I don't give a tiny rat's ass."
+165,12,13,Kyle,"Yeah, we're gonna go."
+166,12,14,Ross,"I'm sorry. Ugh, Pheebs, you were, you were right about her. Y'know, she"
+167,12,15,Phoebe,"Oh. Y'know, he hums while he does other stuff to."
+168,12,16,Ross,"Yeah, we're better off without them."
+169,12,17,Phoebe,"And y'know, even if they break up again, you'd better not let him in your sad men's club!"
+170,12,18,Ross,Divorced men's club.
+171,13,0,Monica,Phoebe!
+172,13,1,Phoebe,Yeah?
+173,13,2,Monica,Have you seen Chandler?!
+174,13,3,Phoebe,No! Why?
+175,13,4,Monica,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!
+176,13,5,Monica,I know!
+177,13,6,Monica,How bad is this?
+178,13,7,Phoebe,"Well for the regular guy, it's bad, but Chandler, Oh dear God!"
+179,13,8,Monica,I know! I know! And he totally freaked out and I can't find him anywhere!
+180,13,9,Phoebe,What are you gonna do?
+181,13,10,Monica,"Well, I'm never gonna listen to you again, that's for sure!"
+182,13,11,Monica,"""Y'know, harm can it do if you go and put your name down?"""
+183,13,12,Phoebe,Rachel said that!
+184,13,13,Monica,Well Rachel's not here!
+185,14,0,Ross,"Come on, come on."
+186,14,1,Ross,"Damnit, damnit, damnit, damnit."
+187,14,2,Ross,This is all your fault.
+188,14,3,Ross,"This is supposed to be, like, the greatest day of my life, y'know?"
+189,14,4,Ross,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you."
+190,14,5,Susan,The woman I love is having a baby today. I've been waiting for this just as much as you have.
+191,14,6,Ross,"No no no, believe me."
+192,14,7,Ross,"No one has been waiting for this as much as I have, ok?"
+193,14,8,Ross,And you know what the funny thing is?
+194,14,9,Ross,"When this day is over, you get to go home with the baby, ok?"
+195,14,10,Ross,Where does that leave me?
+196,14,11,Susan,You get to be the baby's father.
+197,14,12,Susan,Everyone knows who you are.
+198,14,13,Susan,Who am I?
+199,14,14,Susan,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day."
+200,14,15,Ross,Every day is Lesbian Lover Day.
+201,14,16,Phoebe,This is so great.
+202,14,17,Ross,You wanna explain that?
+203,14,18,Phoebe,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one."
+204,14,19,Phoebe,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.
+205,14,20,Phoebe,And it's not even born yet.
+206,14,21,Phoebe,"It's just, it's just the luckiest baby in the whole world."
+207,14,22,Phoebe,"I'm sorry, you were fighting."
+208,15,0,Joey,"Okay, it's a typical New York City apartment. Two girls are just hanging out."
+209,15,1,Monica,"Hi, how are you doing Kelly?"
+210,15,2,Rachel,"I'm doing just fine! God, Tiffany, you smell so great!"
+211,15,3,Monica,It's my new perfume. Why don't you come closer where you can
+212,15,4,Rachel,"Oh, y'know Joey, you are sick!"
+213,15,5,Monica,This is disgusting!
+214,15,6,Rachel,I'm not reading this!
+215,15,7,Joey,What?! Wait-wait-wait! The handsome man was about to enter!!
+216,16,0,Chandler,"Well, what?"
+217,16,1,Chandler,What?
+218,16,2,Chandler,What is it?
+219,16,3,Chandler,That she left you?
+220,16,4,Chandler,That she likes women?
+221,16,5,Chandler,That she left you for another woman that likes women?
+222,16,6,Ross,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you..."
+223,16,7,Chandler,Then what?
+224,16,8,Ross,My first time with Carol was...
+225,16,9,Joey,What?
+226,16,10,Ross,It was my
+227,16,11,Joey,With Carol?  Oh.
+228,16,12,Chandler,"So in your whole life, you've only been with oneoh."
+229,16,13,Joey,"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!"
+230,17,0,Ross,Hi. Where is everybody?
+231,17,1,Phoebe,"Oh, it's already closed, Chris gave me the keys to lock up-what is wrong?"
+232,17,2,Ross,"My marriage, I think my marriage is um, is kinda over."
+233,17,3,Phoebe,Oh no! Why?
+234,17,4,Ross,"Cause Carol's a lesbian.  And, and I'm not one. And apparently it's not a mix and match situation."
+235,17,5,Phoebe,"Oh my God! I don't believe it! Oh, you poor bunny."
+236,17,6,Ross,I'm an idiot.
+237,17,7,Ross,"I mean shoulda seen it, I mean Carol and I'd be out and she'd, she'd see some beautiful woman, and, and she'd be Ross y'know look at her, and I'd think, God, my wife is cool!"
+238,17,8,Phoebe,"Aw! Hey, do you think that Susan person is her lover?"
+239,17,9,Ross,"Well, now I do!!"
+240,17,10,Phoebe,I'm sorry.
+241,17,11,Ross,Seven years.
+242,17,12,Ross,"I mean we've been together seven years, she's the only woman who's ever loved me, and the only woman I've-I've ever...."
+243,17,13,Phoebe,"Aw, God Ross. Oh."
+244,18,0,Cookie,I'll do it.
+245,18,1,Joey,No you won't.
+246,18,2,Joey,"Look he knows he did a terrible thing and I believe him, he's sorry."
+247,18,3,Joey,"But,  you've got one more apology to make, all right, you've got to apologize to Mary-Angela."
+248,18,4,Chandler,"Okay, absolutely!"
+249,18,5,Joey,All right.
+250,18,6,Chandler,You've got it.
+251,18,7,Joey,"Cookie, now you can punch him!"
+252,18,8,Chandler,What?!
+253,19,0,Monica,Julie.
+254,19,1,Rachel,What?!
+255,19,2,Monica,Jody!
+256,19,3,Rachel,You were with Julie?
+257,19,4,Monica,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend."
+258,19,5,Monica,"And then, one thing led to another and, before I knew it, we were...shopping."
+259,19,6,Rachel,Oh. Oh my God.
+260,19,7,Monica,"Honey, wait. We only did it once. It didn't mean anything to me."
+261,19,8,Rachel,"Yeah, right.  Sure!"
+262,19,9,Monica,"Really, Rachel, I was thinking of you the whole time."
+263,19,10,Monica,"Look, I'm sorry, all right."
+264,19,11,Monica,I never meant for you to find out!
+265,19,12,Rachel,"Oh, please, you wanted to get caught."
+266,19,13,Monica,That is not true!
+267,19,14,Rachel,"Oh, so you just sort of happened to leave it in here?"
+268,19,15,Monica,Did it ever occur to you that I might just be that stupid?
+269,19,16,Rachel,"Ok, Monica. I just have to know one thing. Did you go with her to"
+270,20,0,Monica,Yeah!
+271,20,1,Phoebe,I can't say.
+272,20,2,Monica,Why?!
+273,20,3,Chandler,Why not?
+274,20,4,Phoebe,I can't say because he's famous.
+275,20,5,Rachel,"Oh my God, who is it?!"
+276,20,6,Monica,"Phoebe, come on, you have to tell us."
+277,20,7,Phoebe,"Okay, okay. It's James Brolin. James Brolin is the father of my baby."
+278,20,8,Chandler,As in Barbara Streisand's husband James Brolin?
+279,20,9,Phoebe,What?! Well he never said that to me!
+280,21,0,Ross,In
+281,21,1,Phoebe,"Oh, this life! Oh okay no, Chandler's is worse."
+282,21,2,Joey,"Man, it must be so cool remembering stuff like that! I don't have any past life memories."
+283,21,3,Phoebe,Of course you don't sweetie. You're brand new.
+284,21,4,Rachel,I know Monica's worst Thanksgiving.
+285,21,5,Monica,"Oh, let's not tell this story."
+286,21,6,All,"Oh, come on!"
+287,21,7,Phoebe,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!"
+288,21,8,Rachel,What?! Joey got a turkey stuck on his head?!
+289,21,9,Joey,"Hey, it's not like it sounds."
+290,21,10,Chandler,It's
+291,22,0,Monica,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!"
+292,22,1,Rachel,Who was that?
+293,22,2,Monica,Wendy bailed. I have no waitress.
+294,22,3,Rachel,Oh... that's too bad. Bye bye.
+295,22,4,Monica,Ten dollars an hour.
+296,22,5,Rachel,No.
+297,22,6,Monica,Twelve dollars an hour.
+298,22,7,Rachel,"Mon. I wish I could, but I've made plans to walk around."
+299,22,8,Monica,"You know, Rachel, when you ran out of your wedding, I was there for you."
+300,22,9,Monica,"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour."
+301,22,10,Rachel,Done.
+302,23,0,Joey,"The reactor's gonna blow in three seconds, we're never gonna make it!"
+303,23,1,Phoebe,You've got to get out of here! Save yourself!
+304,23,2,Joey,No! I won't leave you!
+305,23,3,Phoebe,"Don't worry about me, I'm a robot! I'm just a machine!!"
+306,23,4,Joey,No you're not! Not to me!
+307,23,5,Phoebe,Oh my God.
+308,23,6,Joey,What?
+309,23,7,Phoebe,I am
+310,23,8,Joey,"Yeah, you're great! Okay, let's take it from"
+311,23,9,Phoebe,"No, I mean I was really acting my ass off."
+312,23,10,Joey,"Yeah, I thought I was pretty good too."
+313,23,11,Phoebe,"Oh yeah, you're solid. Yeah, you're just no me."
+314,23,12,Joey,Y'know what? I think that's enough for now. Yeah. I don't want to be over rehearsed.
+315,23,13,Phoebe,Fine!
+316,23,14,Phoebe,I'll do it without you!
+317,23,15,Phoebe,I don't need you or anybody else!
+318,23,16,Phoebe,I'm gonna make it on my own!
+319,23,17,Phoebe,You'll see!!
+320,23,18,Phoebe,You'll
+321,24,0,Kori,I can't believe that Ross is gone. It is just so sad.
+322,24,1,Chandler,I didn't know Ross and you were so close.
+323,24,2,Kori,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.
+324,24,3,Chandler,I'm sure that would mean a lot to him.
+325,24,4,Chandler,"And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently."
+326,24,5,Kori,I thought so many times about calling him and asking him out.    I guess I really missed my chance.
+327,24,6,Ross,But you didn't!
+328,24,7,Ross,I'm still alive!!
+329,24,8,Ross,"Kori, I know this is a big surprise for you."
+330,24,9,Ross,It's a long story but the things    you just said really made my day!
+331,24,10,Ross,"I mean, the fact that you are here means more    to me than if this room were filled with people!"
+332,24,11,Kori,"You sick freak, who does that? I can't believe I had a crush on    you!"
+333,24,12,Ross,Did you hear that? Kori Weston had a crush on me!!
+334,25,0,Dr. Long,We'll do a quick check.
+335,25,1,Rachel,Okay.
+336,25,2,Dr. Long,"So, eight days late huh?"
+337,25,3,Rachel,Yeah.
+338,25,4,Dr. Long,You must be a little uncomfortable.
+339,25,5,Rachel,"Eh, just a tad."
+340,25,6,Dr. Long,"You're about 80 percent effaced, so you're on your way."
+341,25,7,Dr. Long,It still could last a little while longer.
+342,25,8,Dr. Long,If you're anxious there are a few ways to help things along.
+343,25,9,Ross,Do them!!
+344,25,10,Dr. Long,"Actually, they're things you can do. Just some home remedies, but in my experience I've found that some of them are quite effective."
+345,25,11,Rachel,"Well, we are ready to try anything."
+346,25,12,Dr. Long,"Okay, there's an herbal tea you can drink."
+347,25,13,Rachel,Okay.
+348,26,0,Carol,Anytime you're ready.
+349,26,1,Ross,"Ok, ok, here we go."
+350,26,2,Ross,"Ok, where am I talking to, here?"
+351,26,3,Ross,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but..."
+352,26,4,Carol,Just aim for the bump.
+353,26,5,Ross,"Ok, ok, ok, ok, here goes."
+354,26,6,Ross,"You know, I, you know, can't do this."
+355,26,7,Ross,"Uh, this is too weird."
+356,26,8,Ross,I feel stupid.
+357,26,9,Carol,"So don't do it, it's fine. You don't have to do it just because Susan does it."
+358,26,10,Ross,"Hello, baby. Hello, hello."
+359,27,0,Ross,Easy. Easy. You have to go to the hospital. Okay?
+360,27,1,Rachel,"Okay, I do."
+361,27,2,Ross,Okay.
+362,27,3,Rachel,I really do.
+363,27,4,Ross,"Okay, I'm gonna get your coat and then I'll-I'll put you in a cab."
+364,27,5,Rachel,"Okay. Oh wait, wait-wait, you're not gonna come with me?"
+365,27,6,Ross,Of course I am. I just have to make a call.
+366,27,7,Rachel,Okay.
+367,27,8,Ross,Okay?
+368,27,9,Rachel,Thank you.  Oww!!!! God!
+369,27,10,Ross,"What?! I wh-, what's wrong?"
+370,27,11,Rachel,"I'm sorry, I just can't go to the hospital lookin' like this."
+371,28,0,TV Announcer,"Pete Becker is circling the ring now. It looks like, he's just trying to feel him out. Oh, Bruiser is just..."
+372,28,1,Chandler,"Run! Run you crazy, rich freak!"
+373,28,2,Rachel,"Oh, I can't watch this."
+374,28,3,Joey,"Check it out, he's winning!  Pete's winning!"
+375,28,4,Monica,Really?!
+376,28,5,Joey,No-o-o!!
+377,28,6,TV Announcer,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area."
+378,28,7,All,Oh! Oh!
+379,28,8,Phoebe,"Wait, if that's his favourite area, why is he being so mean to it?"
+380,28,9,Ross,"Well, this is ironic."
+381,28,10,Ross,"Of your last two boyfriends, Richard didn't want to have kids, and from the looks of it, now Pete can't."
+382,29,0,Rachel,I thought I was a complete idiot.
+383,29,1,Joey,"Hey, I'm with you. He even asked me if I thought you'd go out with him."
+384,29,2,Rachel,"Oh! Oh, I think I'm gonna throw up a little bit. What did you say?"
+385,29,3,Joey,I said no.
+386,29,4,Rachel,What?!
+387,29,5,Joey,What? II just figured since you're pregnant you're not gonna be seeing people.
+388,29,6,Rachel,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?"
+389,29,7,Joey,I didn't tell him. I didn't know if you were telling people. This is back when I thought Kash was still people.
+390,29,8,Rachel,"Good-good, don't tell him. Don't tell him. Just have him call me okay?"
+391,29,9,Joey,"Rach look, I really don't think that's such a great"
+392,29,10,Rachel,"Okay, you go do it! I'll come back to that set! I'll meet more actors! I'll meet em all!"
+393,30,0,The Hot Girl,I know. You're the guy who wouldn't chip in for the handyman.
+394,30,1,Ross,Nevermind!
+395,30,2,The Hot Girl,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in."
+396,30,3,The Hot Girl,Jen.
+397,30,4,Ross,"Jen, I know this may sound a little But uh, would you maybe wanna grab a cup of coffee sometime, or"
+398,30,5,Jen,Sure! That would be nice.
+399,30,6,Ross,Umm?
+400,30,7,Jen,Oh! My number is on there.  Give me a call.
+401,30,8,Ross,I will give you a call.
+402,30,9,Jen,I'll see you later.
+403,30,10,Ross,Okay!
+404,30,11,Jen,I forgot my paper.
+405,31,0,Chandler,"Here we go. Okay, brace yourselves."
+406,31,1,Monica,What?
+407,31,2,Rachel,Okay.
+408,31,3,Monica,Ow!
+409,31,4,Phoebe,Aren't you gonna go?
+410,31,5,Rachel,No. Thank you.
+411,31,6,Monica,"No, Rachel never pees in public restrooms."
+412,31,7,Rachel,"Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.'  Well, if everybody's going."
+413,31,8,Phoebe,"No, y'know what don't close it  cause the... keys...are in there."
+414,31,9,Chandler,"Oh, no-no-no-no-no-no!!"
+415,31,10,Joey,What's going on?
+416,31,11,Chandler,My lighter's in there!
+417,32,0,Rachel,I promise.
+418,32,1,Phoebe,"Although, don't feel like you can't visit."
+419,32,2,Joey,"Hey, is, is, is Chandler here?"
+420,32,3,Ross,"No, no he's not."
+421,32,4,Monica,"You guys, Joey just saw Janice kissing her ex-husband."
+422,32,5,Ross,"What?  So what are you going to do? I mean how, how are you going to tell Chandler?"
+423,32,6,Joey,"Well, I was thinking about that and I, I think the best way would be, to not."
+424,32,7,Rachel,"Joey, you can't keep this to yourself, if you know about this, you have to tell him."
+425,32,8,Joey,"It'll kill him. I mean it'll, it'll just kill him."
+426,32,9,Phoebe,"Well, you could wait til I go to the dentist, maybe"
+427,33,0,Carol,"Hey, what are you doing here?"
+428,33,1,Ross,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of"
+429,33,2,Carol,"Ah yeah, but now it's Susan and me in Mexico and the hostages coming home."
+430,33,3,Ross,Where's Ben?
+431,33,4,Carol,He's sleeping.
+432,33,5,Ross,"Ahh.  Ooh, is this a ah, is this a bad time?"
+433,33,6,Carol,"Umm, yeah, actually, Susan's gonna be home any minute, it's kinda an anniversary."
+434,33,7,Ross,"Oh! I thought you guys got married in uh, January?"
+435,33,8,Carol,It's not that kind of anniversary.
+436,33,9,Ross,Ah!  Oh.
+437,33,10,Carol,Sooo!! Anyway...
+438,34,0,Monica,Where are we gonna find a tiny little hat?
+439,34,1,Rachel,"Oh, oh, oh, I'll get Rainy Day Bear'!!"
+440,34,2,Monica,"Because he'll know what to do?  Oh my God, you're a genius!"
+441,34,3,Rachel,"Oh God, oh God, it's sowed on though."
+442,34,4,Monica,Give it. Give it.
+443,34,5,Rachel,Okay.
+444,34,6,Monica and Rachel,Oh!!
+445,34,7,Rachel,"Oh, it's just like a bloodbath in here today."
+446,35,0,Joey,"Really? In the moment, I really wanted to kiss you too. In the moment."
+447,35,1,Janine,"In the moment, yeah."
+448,35,2,Joey,But only in the moment. So do ya wanna kiss again?
+449,35,3,Janine,"Sure, New Year's Eve is only two weeks away. Can you wait?"
+450,35,4,Joey,No.
+451,35,5,Janine,Me neither.
+452,35,6,Joey,"3, 2,"
+453,35,7,Janine,"Joey, you don't have to count down every time we kiss."
+454,35,8,Joey,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready."
+455,36,0,Monica,Alright. Phoebe?
+456,36,1,Phoebe,"Okay, okay."
+457,36,2,Phoebe,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!"
+458,36,3,Ross,"Yeah, see.. you took mine. Chandler, what about you?"
+459,36,4,Chandler,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever."
+460,36,5,Rachel,"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes."""
+461,36,6,All,"Hey Joey. Hi. Hey, buddy."
+462,36,7,Monica,"Hey, Joey, what would you do if you were omnipotent?"
+463,36,8,Joey,Probably kill myself!
+464,36,9,Monica,..Excuse me?
+465,36,10,Joey,"Hey, if Little Joey's dead, then I got no reason to live!"
+466,36,11,Ross,"Joey, uh-"
+467,36,12,Joey,You
+468,37,0,Stage Manager,"Joey, onstage!"
+469,37,1,Joey,Well can you at least stay to the end of the play?
+470,37,2,Joey,"I mean, I'll go to the airport with ya, I-I wanna say good bye."
+471,37,3,Lauren,Where are you Vic?
+472,37,4,Kate,Flight's in an hour. I-I gotta go.
+473,37,5,Lauren,Vic! Vic!
+474,37,6,Joey,In a minute!!
+475,37,7,Lauren,So this is it? Victor?
+476,37,8,Joey,"Yeah, I guess it is."
+477,37,9,Joey,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me."
+478,37,10,Joey,"One thing you gotta know, is that I will never forget you."
+479,37,11,Joey,"But, you've got things you have to do now, and so do I."
+480,37,12,Joey,"And so I'm gonna get on this spaceship,  and I'm gonna go to Blargon 7 in search of alternative fuels."
+481,37,13,Joey,"But when I return, 200 years from now, you'll be long gone."
+482,37,14,Joey,But I won't have aged at all.
+483,37,15,Joey,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I'm gonna want to meet her."
+484,37,16,Lauren,"So long, Vic!"
+485,38,0,Rachel,Nooo Way! The most romantic song ever is
+486,38,1,Phoebe,"See, I-I think that one that Elton John wrote for, um, that guy on"
+487,38,2,Rachel,"What song was that, Pheebs?"
+488,38,3,Phoebe,Hi Monica!
+489,38,4,Ross,Hey Mon!
+490,38,5,Rachel,Hey Mon!
+491,38,6,Phoebe,"Oh my God, has she slept at all?"
+492,38,7,Ross,Nope.
+493,38,8,Rachel,"No, it's been three nights in a row."
+494,38,9,Ross,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so."
+495,38,10,Phoebe,"Oh, okay that explains it."
+496,38,11,Phoebe,"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum."
+497,38,12,Phoebe,But then I realized where would a mouse or a opossum get the money to make the phone call.
+498,39,0,Chandler,"So uh, man, are you gonna go to the play with me tonight?"
+499,39,1,Ross,"Y'know what, I don't know how comfortable I am going to see how hot the sex is between some guy and your girlfriend."
+500,39,2,Chandler,"Yeah, I know but"
+501,39,3,Ross,"Oh no-no-no, I'm there."
+502,39,4,Monica,Hey!
+503,39,5,Joey,Hey Mon! Want some pancakes?
+504,39,6,Monica,You made pancakes?
+505,39,7,Joey,Yep! Grab a plate.
+506,39,8,Joey,"No-no, stay right there.  Gettin' closer."
+507,39,9,Chandler,"Okay, okay, but don't worry, because we also have cereals, muffins, waffles,"
+508,39,10,Joey,"Listen also we're uh, we're watching the game here Saturday night, if people want to come over."
+509,39,11,Ross,Oh yeah!
+510,40,0,Ross,"and then, we could've gone from the ceremony to the reception with you in the sidecar!"
+511,40,1,Rachel,"Ross, it just wouldn't have been feasible."
+512,40,2,Ross,But having a dove place the ring on your finger would've been no problem?
+513,40,3,Rachel,It was really fun being married to you tonight.
+514,40,4,Ross,"Yeah! And! And, it was the easiest 400 bucks I've ever made."
+515,40,5,Rachel,"Okay Ross, can I uh, can I ask you something?"
+516,40,6,Ross,Yeah.
+517,40,7,Rachel,"That proposal, at the planetarium"
+518,40,8,Ross,"I know, I know it was stupid."
+519,40,9,Rachel,Are you kidding?!
+520,40,10,Rachel,"With the, with the lilies, and-and the song, and the stars!"
+521,40,11,Rachel,It wasreally wonderful!
+522,40,12,Rachel,Did you just make that up?
+523,40,13,Ross,"No, actually I thought about it when, when we were going out."
+524,40,14,Ross,"It's how I imagined I uh, I would ask you to marry me."
+525,40,15,Rachel,"Well, that would've been very hard to say no too."
+526,40,16,Ross,"It's a good thing I didn't do it, because it sounds like it would've been a very expensive wedding.  Okay, good night"
+527,40,17,Rachel,Goodnight
+528,40,18,Ross,Even if the sidecar had a windscreen so your hair wouldn't get messed up?
+529,40,19,Rachel,I will think about it.
+530,40,20,Ross,That's all I'm askin'
+531,41,0,Rachel,And that's I'm so glad there's no problem.
+532,41,1,Joanna,"That's fine, actually I'm on the hiring committee, so there'll be at least one friendly face."
+533,41,2,Rachel,Ohh! That's great!
+534,41,3,Joanna,"You know, Junior Miss is where I started. Oh, I had to sleep with the"
+535,41,4,Rachel,Really?!
+536,41,5,Joanna,No-ho-ho!
+537,41,6,Joanna,Yeah.
+538,41,7,Joanna,"I mean, no-no-no-no-no, don't you worry, I'm sure with your qualifications you won't need to sleep with some guy to get that job."
+539,41,8,Joanna,"Although, I might need some convincing."
+540,41,9,Rachel,"Well, I, umm"
+541,41,10,Joanna,"Kidding! God, I feel wild today!"
+542,42,0,Rachel,Hey!
+543,42,1,All,Hi! Hey!
+544,42,2,Rachel,Do you guys know any cute guys?
+545,42,3,Chandler,"Well, of course I do! My good friend Joey over here."
+546,42,4,Joey,"Oh, I'm sorry. Thank you Chandler."
+547,42,5,Rachel,"Anyway, there's this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go"
+548,42,6,Monica,What's the charity?
+549,42,7,Rachel,"I don't know, something either trees or diseaseRalph mumbles a lot."
+550,42,8,Monica,Does Ralph mumble when you're not paying attention?
+551,42,9,Rachel,Yeah! It's weird. But the thing is need to find a date.
+552,42,10,Phoebe,"Well, what kind of guy are you looking for?"
+553,43,0,Rachel,Hey!
+554,43,1,Ross,What are you guys doing later?
+555,43,2,Phoebe,"Oh, Rachel and I have appointments to get our hair cut."
+556,43,3,Rachel,We do?
+557,43,4,Phoebe,I want to see what he wants first.
+558,43,5,Ross,I just found out that Elizabeth's dad wants to meet me.
+559,43,6,Chandler,"Wait a minute, hold the phone! You're not Elizabeth's dad?!"
+560,43,7,Ross,"Come on guys, I-I really want this guy to like me."
+561,43,8,Ross,It-it would really help me out if you guys were here to make me look good.
+562,43,9,All,Of course we'll help! Yeah! We'll be here!
+563,43,10,Ross,Thanks!
+564,43,11,Monica,We know how tough those parent/teacher conferences can be.
+565,44,0,Rachel,"Oh, hi! How are you doing?"
+566,44,1,Tag,I'm okay. I gotta go down to the police station and look at mug shots.
+567,44,2,Tag,"Thanks for having me over, you guys."
+568,44,3,Ross,Tag?
+569,44,4,Ross,Y-You're going?
+570,44,5,Ross,"Uh we didn't, uh we didn't get the chance to talk."
+571,44,6,Ross,"Uh, so, where did you say you're from again?"
+572,44,7,Tag,Colorado.
+573,44,8,Ross,"Ah, what good are you."
+574,44,9,Rachel,"Look, um, I think we should talk about what happened on the terrace."
+575,44,10,Tag,Okay.
+576,44,11,Rachel,"Ah, I-I never should have said what I said."
+577,44,12,Rachel,Ity'know what?
+578,44,13,Rachel,It just doesn't matter how I feel.
+579,44,14,Rachel,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?"
+580,44,15,Tag,"Um, I'm not."
+581,44,16,Rachel,"Oh, god, I knew it, that I freaked you out."
+582,44,17,Tag,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us."
+583,44,18,Rachel,Really?
+584,44,19,Tag,"Yeah, so, please don't fire me for doing this."
+585,45,0,Phoebe,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?"
+586,45,1,Joey,"Yes! Yes, I did."
+587,45,2,Phoebe,Then do Iceberg!
+588,45,3,Joey,G-sharp.
+589,45,4,Phoebe,G
+590,45,5,Joey,What?! I didn't touch a guitar!
+591,45,6,Phoebe,"No, but you're questioning my method!"
+592,45,7,Joey,"No, I'm not questioning it, I'm saying it's stupid!  What?!"
+593,45,8,Monica,Thank you.
+594,45,9,Phoebe,Y'know none of my other student thought I was stupid.
+595,45,10,Joey,"Your other student, was you!"
+596,45,11,Phoebe,"Yeah, well, y'know maybe you just need to try a little harder!"
+597,45,12,Joey,"Look, maybe I need to try a real teacher!"
+598,45,13,Joey,Right here!
+599,45,14,Joey,Here!
+600,45,15,Joey,"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and"
+601,45,16,Phoebe,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play
+602,45,17,Rachel,"""Baddest man in the whole damn town."""
+603,45,18,Phoebe,"Oh, fine! Take his side!"
+604,46,0,Rachel,Hi!
+605,46,1,Ross,Hi.
+606,46,2,Rachel,"Hi.  Umm, I think there's something that we really need to talk about."
+607,46,3,Ross,"I think we do. Why don't we go inside?  Look uh, I know why you're here."
+608,46,4,Rachel,You do?
+609,46,5,Ross,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first."
+610,46,6,Rachel,Okay.
+611,46,7,Ross,"Okay.  Uh, Ross and Rachel. Rachel and Ross. That's been one heck of a see-saw hasn't it?"
+612,46,8,Rachel,What?
+613,46,9,Ross,"I mean look, that-that one night we had was fun andand certainly passionate, but don't you think it's better if we just stayed friends?"
+614,46,10,Rachel,Seriously. What?!
+615,46,11,Ross,Okay.
+616,46,12,Ross,Okay.
+617,46,13,Ross,Y'know what?
+618,46,14,Ross,"If you want to, we can do it one more time."
+619,46,15,Ross,I mean I'd-I'd be okay with that.
+620,46,16,Ross,"In fact, I have some time right now."
+621,46,17,Rachel,"Okay, y'know what? Can I, can I talk now?"
+622,46,18,Ross,Oh sure.
+623,46,19,Rachel,"I'm pregnant.  Ross?  Ross?  Okay, whenever you're ready.  And you're the father by the waybut you got that"
+624,47,0,Chandler,I know!
+625,47,1,Ross,"Yes! Wow, well, that-that was easy. Okay, you-you go."
+626,47,2,Chandler,Okay.
+627,47,3,Ross,Okay.
+628,47,4,Chandler,"Okay, you know, you know when your in bed, with a woman."
+629,47,5,Ross,Hmph.
+630,47,6,Chandler,"And, ah, you know, your fooling around with her."
+631,47,7,Chandler,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place...."
+632,47,8,Ross,"With the belly-button ring? Oh, muhawa!"
+633,47,9,Chandler,"I know, And then all of the sudden your Mom pops into your head."
+634,47,10,Chandler,"And your like 'Mom, get outta here!'"
+635,47,11,Chandler,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing."
+636,47,12,Chandler,"So it's kinda like, you're, you know."
+637,47,13,Chandler,You know.... You don't know!
+638,47,14,Ross,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?"
+639,47,15,Chandler,You said...
+640,47,16,Ross,I said '
+641,48,0,Phoebe,Oh!
+642,48,1,Ross,Look at Emma!
+643,48,2,Phoebe,"I just can't decide who she looks more alike, you or Rachel?"
+644,48,3,Ross,"Oh what are you kidding? She's gorgeous, it's all Rachel."
+645,48,4,Phoebe,"I'm sorry, for the last time, why aren't you two together again?"
+646,48,5,Phoebe,"No, I know."
+647,48,6,Phoebe,"I know, because you're not in that place."
+648,48,7,Phoebe,"Which would be fine, except you totally are."
+649,48,8,Ross,It'sit's complicated okay?
+650,48,9,Phoebe,"Yeah that's true. Yeah, you love her. You always have. You have a child together. There is no right answer."
+651,48,10,Ross,"Look, we've been together."
+652,48,11,Ross,Okay?
+653,48,12,Ross,"And then apart, and then together, and then apart, and now we have a baby."
+654,48,13,Ross,It's just if-if we got together again and it didn't work outI could never do that to Emma.
+655,48,14,Ross,I mean she-she thinking everything Oh that'snow me.
+656,48,15,Ross,What do they put something in the water in this place?
+657,48,16,Ross,"Since Rachel and I we're doing really, we're doing really well right now."
+658,48,17,Phoebe,"I know. I know. I know. I know, and if you try to make it more you might wreck it."
+659,48,18,Ross,"Yeah, exactly."
+660,48,19,Phoebe,Right.  Or you might get everything you've wanted since you were fifteen.
+661,49,0,Rachel,God. I forgot how much I love driving. I have
+662,49,1,Ross,You don't have a
+663,49,2,Rachel,"Oh Ross you're so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax"
+664,49,3,Ross,What-what are you doing?! Are youOkay that's not funny! Just stop horsing around!
+665,49,4,Rachel,"I am not horsing around, okay? I am Porsching around."
+666,49,5,Rachel,Uh-oh.
+667,49,6,Ross,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble."
+668,49,7,Rachel,Really? You think so?
+669,49,8,Ross,I was talking to myself! You're going down!
+670,50,0,Monica,Hey honey! I missed you today!
+671,50,1,Chandler,"Oh, yeah?"
+672,50,2,Monica,Yeah.  What d'you wanna do tonight?
+673,50,3,Chandler,"Oh, well... Maybe we could..."
+674,50,4,Monica,"Ok, trying to turn me on by making a mess?"
+675,50,5,Monica,Know your audience!
+676,50,6,Monica,"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank."
+677,50,7,Chandler,We really need to take those tests?
+678,50,8,Monica,"Honey, we've been trying to have a baby for over a year."
+679,50,9,Monica,I think    it's a good idea to find out if everything's ok. Just a few routine tests.
+680,50,10,Chandler,But I don't wanna do it in a cup!
+681,51,0,Phoebe,"Oh, hi Max! Hey, do you know everybody?"
+682,51,1,Max,No. Have you seen David?
+683,51,2,Phoebe,"No, no, he hasn't been around."
+684,51,3,Max,"Well, if you see him, tell him to pack his bags. We are going to Minsk."
+685,51,4,Phoebe,Minsk?
+686,51,5,Max,Minsk. It's in Russia.
+687,51,6,Phoebe,I know where Minsk is.
+688,51,7,Max,"We got the grant. Three years, all expenses paid."
+689,51,8,Phoebe,"So when, when do you leave?"
+690,51,9,Max,January first
+691,52,0,Joey,Pretty great! Except I did get a little attitude from the robot.
+692,52,1,Chandler,"Damn those robots, they're supposed to be our"
+693,52,2,Joey,"Anyway, it wasn't the robot, it was the guy who controls him."
+694,52,3,Joey,"Yeah, he doesn't like me."
+695,52,4,Joey,He had C.H.E.E.S.E.
+696,52,5,Joey,knock over the sandwich right when I was reaching for one!
+697,52,6,Joey,Ohh!
+698,52,7,Phoebe,"Well, why don't you just get him fired?"
+699,52,8,Joey,"I may have to, I hate to do it, but I'm the star!"
+700,52,9,Joey,Y'know?
+701,52,10,Joey,There's a limit to how many sandwiches I can eat off the floor.
+702,52,11,Joey,Excuse me.
+703,52,12,Joey,Joey Tribbiani.
+704,52,13,Estelle,"Joe! I'm glad I found ya, I got an audition for ya!"
+705,52,14,Joey,Wow!
+706,52,15,Estelle,The thing is it's kinda on the Q.T.
+707,52,16,Estelle,The actor who has the part doesn't know he might be fired.
+708,52,17,Estelle,"It's the lead in a series, Mac and C.H.E.E.S.E."
+709,52,18,Joey,I'm the lead in Mac and C.H.E.E.S.E.!!
+710,53,0,Monica,Oh good God! If you want a baby so bad just go steal it!
+711,53,1,Monica,What is going on with you? Since when are you so crazy about babies?
+712,53,2,Chandler,I'm not crazy about babies. I'm crazy about us.
+713,53,3,Monica,What?
+714,53,4,Chandler,"Look, we've always talked about having babies someday."
+715,53,5,Chandler,"I'm not saying it has to be right now, but I'm starting to think that we can handle it."
+716,53,6,Chandler,We're good.
+717,53,7,Chandler,We're really good.
+718,54,0,Monica,"Oh, did you catch him?!"
+719,54,1,Ross,Wh-what did he say?!
+720,54,2,Phoebe,"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?"
+721,54,3,Rachel,Why?! Why not?!
+722,54,4,Phoebe,"Come on, you saw the way he ran out of here!"
+723,54,5,Phoebe,He's gonna stick around and talk to the daughter he abandoned!
+724,54,6,Joey,What did you say to him?
+725,54,7,Phoebe,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later."
+726,55,0,Rachel,"Oh yeah, sure."
+727,55,1,Rachel,"Okay, in about ten seconds you're gonna see him kiss me."
+728,55,2,Ross,And in about five seconds you're gonna see why.
+729,55,3,Rachel,Ross did I ever tell you about the time that I went backpacking through Western Europe?
+730,55,4,Rachel,"Okay, get ready to see some beggin'!"
+731,55,5,Phoebe,"Oh, you came on to Ross!"
+732,55,6,Rachel,What?!
+733,55,7,Ross,Now I'm so happy.
+734,55,8,Rachel,What are you talking about?!
+735,55,9,Monica,You used the Europe story!
+736,55,10,Chandler,That's the magic story you use when you wanna have sex!
+737,55,11,Rachel,How do you know about that story?!
+738,55,12,Joey,How do
+739,55,13,Rachel,I heard it from my friend Irene who heard it from some guy!
+740,55,14,Joey,Some guy!!
+741,55,15,Rachel,"No. No, she told me his name was Ken Adams."
+742,55,16,Joey,Ken Adams!!
+743,56,0,Joey,Ben!
+744,56,1,Chandler,"Oh, that's good. Maybe he'll hear you and pull the cord."
+745,56,2,Joey,Stop the bus! Wait! Wait! Wait!
+746,56,3,Monica,Are you sure he didn't break it because it really hurts?
+747,56,4,Doctor,"No, it's just a good bone bruise. And, right here  is the puncture wound from your ring."
+748,56,5,Ross,"Oh, I'm sorry, I'm really sorry."
+749,56,6,Ross,Sorry.
+750,56,7,Ross,Sorry!
+751,56,8,Ross,I got my s's back!
+752,56,9,Ross,Which we can celebrate later.
+753,56,10,Ross,Celebrate.
+754,57,0,Phoebe,"I licked my arm, what?"
+755,57,1,Ross,It's breast milk.
+756,57,2,Phoebe,So?
+757,57,3,Rachel,"Phoebe, that is juice, squeezed from a person."
+758,57,4,Joey,What is the big deal?
+759,57,5,Chandler,What did you just do?
+760,57,6,Ross,"Ok, would people stop drinking the breast milk?"
+761,57,7,Phoebe,You won't even taste it?
+762,57,8,Ross,No!
+763,57,9,Phoebe,Not even if you just pretend that it's milk?
+764,57,10,Ross,Not even if Carol's breast had a picture of a missing child on it.
+765,58,0,All,Aww!
+766,58,1,Ross,"Hey Pheebs, could you please not put your feet up on my newold sheet?"
+767,58,2,Phoebe,Oh sure!  Noo!
+768,58,3,Rachel,Ohh!!
+769,58,4,Ross,My apothecary table!!!
+770,58,5,Phoebe,What?!
+771,58,6,Rachel,Noooooo!!
+772,58,7,Phoebe,"Ross, where did you get this?!"
+773,58,8,Rachel,"Oh my God, Phoebe,"
+774,58,9,Phoebe,"Wow! Oh my God, well if they've ripped off our table ours must be much more than one and fifty dollars!"
+775,58,10,Phoebe,Well this doesn't even smell like opium.
+776,58,11,Ross,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way."
+777,59,0,Rachel,How is she?
+778,59,1,Phoebe,"It's too soon to tell. She's resting, which is a good sign."
+779,59,2,Ross,How's the hair?
+780,59,3,Phoebe,"I'm not gonna lie to you, Ross, it doesn't look good."
+781,59,4,Phoebe,"I put a clip on one side, which seems to have stopped the curling."
+782,59,5,Joey,Can we see her?
+783,59,6,Phoebe,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in."
+784,59,7,Joey,How're you doing?
+785,60,0,Chandler,Of course the packaging does appeal to grown-ups and kids alike.
+786,60,1,Carol,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it."
+787,60,2,Ross,That would be no.
+788,60,3,Phoebe,Come on. It doesn't taste bad.
+789,60,4,Joey,"Yeah, it's kinda sweet, sorta like, uh..."
+790,60,5,Susan,Cantaloupe juice.
+791,60,6,Joey,Exactly.
+792,60,7,Ross,You've tasted it? You've tasted it.
+793,60,8,Susan,Uh huh.
+794,60,9,Ross,"Oh, you've tasted it."
+795,60,10,Susan,"You can keep saying it, but it won't stop being true."
+796,60,11,Ross,Gimme the bottle.  Gimme the towel.
+797,61,0,Monica,I still don't get why Greg and Jenny would give us a fake number.
+798,61,1,Joey,"Y'know, if they knew what they were doing they probably didn't give you real names either."
+799,61,2,Monica,"Okay, maybe people give out fake numbers, but they don't give out fake names."
+800,61,3,Joey,"Oh yeah?  Hi, Ken Adams, nice to meet you."
+801,61,4,Phoebe,Regina Philange.
+802,61,5,Chandler,"I still don't get it, we didn't do anything wrong."
+803,61,6,Monica,"I know! Although, you did tell an awful lot of jokes."
+804,61,7,Chandler,I thought you said those jokes were funny. Joke! Joke! Joke!
+805,61,8,Monica,Joke. Joke. Blah! Blah!
+806,61,9,Chandler,Well maybe it was all of your questions.
+807,61,10,Monica,What about my questions?
+808,62,0,Monica,"Look at it! Ohhh! Wallpaper's a little faded, that's okay. Carpet's a little loose. Hardwood floors!!"
+809,62,1,Phoebe,Hey!
+810,62,2,Chandler,Hello.
+811,62,3,Phoebe,Oh! Ooh! Oh Monica! It's so beautiful.
+812,62,4,Monica,I know!!!
+813,62,5,Phoebe,"So, I'm here, ready to play."
+814,62,6,Monica,Okay.
+815,62,7,Phoebe,"I brought a bunch of stuff for the house, so check it out. Ha-ha."
+816,62,8,Monica,What's this?
+817,62,9,Phoebe,"That's a dog, every house should have a dog."
+818,62,10,Monica,Not one that can pee on the roof.
+819,62,11,Phoebe,"Well, maybe it's so big because the house was built on radioactive waste."
+820,62,12,Chandler,And is this in case the house sneezes?
+821,62,13,Phoebe,"No, no, that's the ghost for the attic."
+822,62,14,Monica,I don't want a ghost.
+823,62,15,Phoebe,"Well, nobody wants a ghost. But you've got one, because the house is sitting on an ancient Indian burial ground."
+824,62,16,Ross,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen."
+825,62,17,Phoebe,"Okay, obviously you don't know much about the U.S. government."
+826,62,18,Rachel,Hey!
+827,62,19,All,Hello.
+828,62,20,Rachel,I need to talk to you!
+829,62,21,Ross,"Sure, what's up?"
+830,63,0,Monica,"Hey, guys, guys, did you see my new, china cabinet?!"
+831,63,1,Ross and Rachel,Uh-huh.
+832,63,2,Phoebe,"Watch, watch."
+833,63,3,Ross and Rachel,Ooohhhh!!
+834,63,4,Phoebe,"And, and!"
+835,63,5,Ross and Rachel,Ahhhh!!
+836,63,6,Chandler,"Hey, my Father's house does that!"
+837,63,7,Rachel,"O-o-o-okay, how did it go? Tell me everything."
+838,63,8,Chandler,"Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening."
+839,64,0,Chandler,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" I'm happy all the time!"
+840,64,1,Chandler,Nice try.
+841,64,2,Monica,"Wait, wait, wait!"
+842,64,3,Chandler,"Look, Monica"
+843,64,4,Monica,Look!
+844,64,5,Chandler,This is not going to work.
+845,64,6,Monica,I bet this will work!
+846,64,7,Chandler,You are so great! I love you!
+847,64,8,Monica,What?
+848,64,9,Chandler,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!"
+849,64,10,Monica,You said you loved me! I can't believe this!
+850,64,11,Chandler,No I didn't!
+851,64,12,Monica,"Yes, you did!"
+852,64,13,Chandler,No I didn't!
+853,64,14,Monica,You love me!
+854,64,15,Chandler,No I don't! Stop it! Stop it! Stop it! Stop it!
+855,65,0,Monica,Hello Greg?
+856,65,1,Monica,"Hi, this is Monica from the plane?"
+857,65,2,Monica,"Listen, the number that you gave me 853-5   That is their old number!"
+858,65,3,Monica,Jenny's been giving it out since they moved!
+859,65,4,Chandler,Jenny! That is so Jenny!
+860,65,5,Monica,"Hey listen umm, how would you like to get together?"
+861,65,6,Monica,Say next Saturday?
+862,65,7,Monica,"Okay, how about Sunday?"
+863,65,8,Monica,"Okay umm, the week after that?"
+864,65,9,Monica,The week after that?
+865,65,10,Monica,Y'know what Greg?
+866,65,11,Monica,"We are good, interesting, funny people with"
+867,66,0,Joey,Ross! Get a shot of this. (He's carrying an issue of the
+868,66,1,Phoebe,"Oh, okay, I'm having another one!"
+869,66,2,Phoebe,"This one doesn't hurt eitherOoh, yes it does!"
+870,66,3,Phoebe,Ow!
+871,66,4,Phoebe,Ow!
+872,66,5,Phoebe,Ow!
+873,66,6,Phoebe,Ow!
+874,66,7,Phoebe,Ooh!
+875,66,8,Phoebe,"Oh, I was kinda hoping that was it."
+876,66,9,Ross,"Hey, where are Monica and Rachel anyway?"
+877,66,10,Frank,"Yeah, I love you. Okay, bye!  Hi!"
+878,66,11,Rachel,Hi!
+879,66,12,Frank,"That was Alice's mom, she said she left five hours ago. She should be here by now!"
+880,66,13,Rachel,"Oh, honey, don't worry. She's gonna make it on time."
+881,66,14,Frank,Yeah.
+882,67,0,Monica,I guess I set up the video camera to try and entice Joey.
+883,67,1,Joey,But sadly I could not be enticed.
+884,67,2,Ross,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!
+885,67,3,Monica,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.
+886,67,4,Joey,"Well, I think we've all learned something about who's disgusting and who's not."
+887,67,5,Joey,Eh?
+888,67,6,Joey,"All right, now, I'm going to get back to my bucket."
+889,67,7,Joey,"I'm only eating the skin, so the chicken's up for grabs."
+890,68,0,Phoebe,"Ohh, okay, they gave you the old time pricing."
+891,68,1,Rachel,Yeah.
+892,68,2,Phoebe,"Well, what period is it from?"
+893,68,3,Rachel,"Uh, it's from yore. Like the days of yore. Y'know?"
+894,68,4,Phoebe,"Yes, yes I do."
+895,68,5,Phoebe,"God, oh it's just perfect!"
+896,68,6,Phoebe,I bet it has a great story behind it too.
+897,68,7,Phoebe,Did they tell you anything?
+898,68,8,Rachel,"Yes! That I know, this is from White Plains."
+899,68,9,Phoebe,"White Plains. Oh, it sounds like such a magical place."
+900,69,0,Monica,"Rachel, it's going to happen. Chandler is gonna move in here."
+901,69,1,Rachel,But I
+902,69,2,Monica,"No-no, wait!"
+903,69,3,Monica,"Just let me finish, okay?"
+904,69,4,Monica,"This isn't something that we just, we just impulsively decided in-in Vegas, this is something we both really want."
+905,69,5,Monica,And it
+906,69,6,Rachel,It is? Really?
+907,69,7,Monica,"Yeah, sweetie."
+908,69,8,Rachel,"I mean we're not, we're not gonna live together anymore?"
+909,69,9,Monica,No.
+910,69,10,Rachel,What? Oh my God! I'm gonna miss you so much!
+911,69,11,Monica,I'm gonna miss you!
+912,69,12,Rachel,I mean it's the end of an era!
+913,69,13,Monica,I know!
