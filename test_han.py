@@ -1,11 +1,15 @@
 # coding=UTF-8
 
-import pandas as pd
 import jieba
+import pandas as pd
 import numpy as np
+
 from keras.models import load_model
 from keras import backend as K
 from keras.engine.topology import Layer
+from keras.preprocessing.text import Tokenizer
+from keras_preprocessing.sequence import pad_sequences
+
 
 class Attention(Layer):
     def __init__(self, attention_size=128, **kwargs):
@@ -51,9 +55,10 @@ class Attention(Layer):
     def compute_output_shape(self, input_shape):
         return (input_shape[0], input_shape[-1])
 
-a=Attention(attention_size=128)
 
-model = load_model('./model/cn_roberta_han.h5',custom_objects={'Attention': a})
+a = Attention(attention_size=128)
+
+model = load_model('./model/cn_roberta_han.h5', custom_objects={'Attention': a})
 
 train = pd.read_csv('./data/cn_train.csv')
 test = pd.read_csv('./data/cn_dev.csv')
@@ -66,9 +71,6 @@ X_train = train['sen_cut'].apply(lambda x: ' '.join(x)).tolist()
 X_test = test['sen_cut'].apply(lambda x: ' '.join(x)).tolist()
 
 text = np.array(X_train)
-
-from keras.preprocessing.text import Tokenizer
-from keras_preprocessing.sequence import pad_sequences
 
 vocab_size = 30000
 maxlen = 100
@@ -87,14 +89,10 @@ print("完成！")
 
 predicted = np.array(model.predict(X_test))
 print(predicted)
-test_predicted=np.argmax(predicted,axis=1)
+test_predicted = np.argmax(predicted, axis=1)
 
-test['Label']=test_predicted
-# test['id']=test['数据编号']
+test['Label'] = test_predicted
 
-# test['label'].replace({0:'angry', 1:'fear',2:'happy',3:'neural',4:'sad',5:'surprise'}, inplace=True)
-
-
-order=['ID','Label']
+order = ['ID', 'Label']
 result = test[order]
-result.to_csv('./result/cn_DUFL.csv', encoding='utf-8',index=False)
+result.to_csv('./result/cn_DUFL.csv', encoding='utf-8', index=False)

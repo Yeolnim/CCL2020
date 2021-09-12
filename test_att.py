@@ -1,18 +1,22 @@
 # coding=UTF-8
 
-import pandas as pd
 import jieba
+import pandas as pd
 import numpy as np
+
 from keras.models import load_model
 from keras import backend as K
 from keras.engine.topology import Layer
+from keras.preprocessing.text import Tokenizer
+from keras_preprocessing.sequence import pad_sequences
+
 
 class AttentionLayer(Layer):
     def __init__(self, **kwargs):
-        super(AttentionLayer, self).__init__(** kwargs)
+        super(AttentionLayer, self).__init__(**kwargs)
 
     def build(self, input_shape):
-        assert len(input_shape)==3
+        assert len(input_shape) == 3
         # W.shape = (time_steps, time_steps)
         self.W = self.add_weight(name='att_weight',
                                  shape=(input_shape[1], input_shape[1]),
@@ -36,9 +40,10 @@ class AttentionLayer(Layer):
     def compute_output_shape(self, input_shape):
         return input_shape[0], input_shape[2]
 
-a=AttentionLayer()
 
-model = load_model('./model/en_bert_att.h5',custom_objects={'AttentionLayer': a})
+a = AttentionLayer()
+
+model = load_model('./model/en_bert_att.h5', custom_objects={'AttentionLayer': a})
 
 train = pd.read_csv('./data/en_train.csv')
 test = pd.read_csv('./data/en_test.csv')
@@ -51,9 +56,6 @@ X_train = train['sen_cut'].apply(lambda x: ' '.join(x)).tolist()
 X_test = test['sen_cut'].apply(lambda x: ' '.join(x)).tolist()
 
 text = np.array(X_train)
-
-from keras.preprocessing.text import Tokenizer
-from keras_preprocessing.sequence import pad_sequences
 
 vocab_size = 30000
 maxlen = 40
@@ -72,14 +74,10 @@ print("完成！")
 
 predicted = np.array(model.predict(X_test))
 print(predicted)
-test_predicted=np.argmax(predicted,axis=1)
+test_predicted = np.argmax(predicted, axis=1)
 
-test['Label']=test_predicted
-# test['id']=test['数据编号']
+test['Label'] = test_predicted
 
-# test['label'].replace({0:'angry', 1:'fear',2:'happy',3:'neural',4:'sad',5:'surprise'}, inplace=True)
-
-
-order=['ID','Label']
+order = ['ID', 'Label']
 result = test[order]
-result.to_csv('./result/en_DUFL.csv', encoding='utf-8',index=False)
+result.to_csv('./result/en_DUFL.csv', encoding='utf-8', index=False)
